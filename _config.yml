@@ -1,0 +1,9 @@
+title: EEB Graduate Student Orientation Seminar
+description: Home page of EEB 5100 (Planning for a career in EEB)
+
+theme: minima
+
+header_pages:
+ - schedule.md
+ - contact.md
+
