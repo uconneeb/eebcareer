@@ -12,7 +12,7 @@ We are meeting this semester (Fall 2023) on Tuesdays 3:45-5pm in the Bamford Roo
 | **Presenter** | [Chris Elphick](https://elphick.lab.uconn.edu/) |
 | **Topic**     | University/department structure and resources; Degree ontogenies |
 | **Resources** | Compliance & Resources slides |
-| **Notes**     | Homework: Build (or update) a professional web site--complete a draft website to share during class on next week. Paul Lewis's very helpful instructions will get you started |
+| **Notes**     | Homework: Build (or update) a professional web site--complete a draft website to share during class on next week. [Paul Lewis's very helpful instructions will get you started]({{ site.baseurl }}/web-sites/) |
 
 ### September 5  
 

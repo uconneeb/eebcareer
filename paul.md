@@ -4,9 +4,9 @@ title: Web Sites Homework
 permalink: /web-sites/
 ---
 
-## EEB-5100 Homework due September 12, 2023
+## due September 12, 2023
 
-Paul Lewis
+Written by Paul Lewis
 
 A good goal for the Sep. 12 meeting of the Preparing for an EEB Career (EEB 5100) class would be for everyone to get started on creating a professional web site for themselves. Some of you have already done this, and those that have not should (for this class) create a new GitHub or Weebly site (see instructions below). During class, you will be expected to show us what you have created, even if it is still only a minimal page. Note that, if you already have a web site, don’t create a new one: just show us your current site next week (but perhaps use this as an opportunity to freshen up your site if it's gone a bit stale). We can troubleshoot problems, trade ideas and advice, and hopefully, by the time we meet on Sep. 6, everyone will either have a site they are happy about or know enough to get there soon.
 
@@ -128,13 +128,44 @@ Feel free to read more about GitHub pages at https://pages.github.com and take s
 
 ### Steps to creating a Weebly web site
 
+#### 1. Sign up for an account at weebly.com.
 
+#### 2. Once you have a Weebly account, click the + button to create a new site.
 
+#### 3. When asked "What type of website are you creating?" choose "Personal"
 
+#### 4. Fill in the name of your site (could be your actual name).
 
+#### 5. Select a theme (don't worry about the words or images that are inserted by default, those can be easily replaced with your own)
 
+#### 6. Start editing. Feel free to be bold and daring, deleting and adding pictures and text with abandon! No one will be able to see your site until you click the Publish button
 
+#### Tips
 
+* You do not need to publish your page before class; only publish it if you are satisfied with it and ready for anyone and everyone on the internet to see it.
 
+* Clicking on the Pages tab will show you the separate pages that the theme generated for you automatically - you may want to delete some (and certainly will want to modify all) of these before pushing the Publish button.
 
+* Each page that appears when you select Pages will be a main menu item.
 
+* Click the Build tab from the main menu to work on a page you have selected from the Pages tab.
+
+* Clicking an X will generally delete an element.
+
+* Under the Build tab, there should be a palette on the left of items you can add to your page - just drag and drop (but don't drop too fast; move your mouse around - with the mouse button still held down - to see various options for positioning your item before dropping it).
+
+* To replace an image, click on it to get a dialog box that allows you to choose another image to replace the current one.
+
+* If you want paragraphs of text separated by space, note that you can drag a separate Text widget onto your page (might be more visually appealing than adding blank spaces).
+
+* Visit the support page under the Help tab on the main menu - there are some tutorials for beginners that might be worth watching if you get stuck.
+
+### Your web site should contain at least the following things:
+
+* An image (either of you or of a place or an organism central to your research).
+
+* Your contact information (can be just your UConn email address).
+
+* A link to the [EEB Department's Home Page](www.eeb.uconn.edu) (the Department might as well get a small increase in its Google search status while we are at it).
+
+See [a silly example](http://eeb-grad.weebly.com/) of a page I created using only the free features of weebly. This is obviously not the acme of web site design! It is instead designed to show you an example of the *minimum* expected!
