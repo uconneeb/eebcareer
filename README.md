@@ -35,20 +35,16 @@ part in square brackets is the link text (what the viewer of the web page sees):
 
 This would produce a link to the schedule [schedule](/schedule/):
 ~~~~~~
-[schedule](/schedule/)
-~~~~~~
-
-If that doesn't work for some reason, try this:
-~~~~~~
 [schedule]({{ site.baseurl }}/schedule/)
 ~~~~~~
-The `{{ site.baseurl }}` construct is known as a _liquid tag_, which are a kind of macro that expands to something and, in this case, it expands to the base part of the url (i.e. `https://uconneeb.github.io/`.
+
+The `{{ site.baseurl }}` part is known as a _liquid tag_, which is a kind of macro that expands to, in this case, the base part of the url (i.e. `https://uconneeb.github.io/eebcareer`.
 
 ### How do I add an image?
 
 The simplest way to add an image is to start a normal link with an exclamation point:
 ~~~~~~
-![EEB Logo]('assets/img/eeb-logo-square-512x512.png')
+![EEB Logo 2]({{ site.baseurl }}/assets/img/eeb-logo-square-512x512.png)
 ~~~~~~
 This would show the image at its actual size (which might be much to large or much too small) and  place the caption _Moi_ below it. I have created a custom [Liquid Tag](https://jekyllrb.com/docs/liquid/tags/) to make it easier to place images on your personal page that are sized correctly. 
 
@@ -63,7 +59,7 @@ description, url, height, and css attributes however to suit your purposes.
 * Note that the only options for `css` are `image-left`, `image-center` and `image-right`.
 * Note that the url provided must be the actual path from the root of the web site 
 to the image file (don't be tempted to use the permalink specified in the frontmatter
-of your personal page as part of this url)\
+of your personal page as part of this url and don't use `{{ site.baseurl }}` here either).
 
 ### How do I create a simple table?
 

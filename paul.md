@@ -8,7 +8,7 @@ permalink: /web-sites/
 
 Written by Paul Lewis
 
-{% include figure.html description="EEB" url="/assets/img/eeb-logo-square-512x512.png" height="100px" css="image-right" %}
+{% include figure.html description="EEB logo" url="/assets/img/eeb-logo-square-512x512.png" height="200px" css="image-right" %}
 
 A good goal for the Sep. 12 meeting of the Preparing for an EEB Career (EEB 5100) class would be for everyone to get started on creating a professional web site for themselves. Some of you have already done this, and those that have not should (for this class) create a new GitHub or Weebly site (see instructions below). During class, you will be expected to show us what you have created, even if it is still only a minimal page. Note that, if you already have a web site, don’t create a new one: just show us your current site next week (but perhaps use this as an opportunity to freshen up your site if it's gone a bit stale). We can troubleshoot problems, trade ideas and advice, and hopefully, by the time we meet on Sep. 6, everyone will either have a site they are happy about or know enough to get there soon.
 
@@ -128,8 +128,6 @@ That's it! Your minimal web site is now complete and should work properly within
 
 Feel free to read more about GitHub pages at https://pages.github.com and take some courses in generating a GitHub pages web site at https://lab.github.com.
 
-![EEB Logo]('assets/img/eeb-logo-square-512x512.png')
-
 ### Steps to creating a Weebly web site
 
 #### 1. Sign up for an account at weebly.com.
@@ -143,8 +141,6 @@ Feel free to read more about GitHub pages at https://pages.github.com and take s
 #### 5. Select a theme (don't worry about the words or images that are inserted by default, those can be easily replaced with your own)
 
 #### 6. Start editing. Feel free to be bold and daring, deleting and adding pictures and text with abandon! No one will be able to see your site until you click the Publish button
-
-![EEB Logo 2]({{ site.baseurl }}/assets/img/eeb-logo-square-512x512.png)
 
 #### Tips
 
