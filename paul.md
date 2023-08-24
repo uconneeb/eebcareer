@@ -128,6 +128,8 @@ That's it! Your minimal web site is now complete and should work properly within
 
 Feel free to read more about GitHub pages at https://pages.github.com and take some courses in generating a GitHub pages web site at https://lab.github.com.
 
+![EEB Logo]('/assets/img/eeb-logo-square-512x512.png')
+
 ### Steps to creating a Weebly web site
 
 #### 1. Sign up for an account at weebly.com.
