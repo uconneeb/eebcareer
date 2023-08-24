@@ -48,7 +48,7 @@ The `{{ site.baseurl }}` construct is known as a _liquid tag_, which are a kind 
 
 The simplest way to add an image is to start a normal link with an exclamation point:
 ~~~~~~
-![EEB Logo]('/assets/img/eeb-logo-square-512x512.png')
+![EEB Logo]('assets/img/eeb-logo-square-512x512.png')
 ~~~~~~
 This would show the image at its actual size (which might be much to large or much too small) and  place the caption _Moi_ below it. I have created a custom [Liquid Tag](https://jekyllrb.com/docs/liquid/tags/) to make it easier to place images on your personal page that are sized correctly. 
 

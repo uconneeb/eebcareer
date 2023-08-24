@@ -144,6 +144,8 @@ Feel free to read more about GitHub pages at https://pages.github.com and take s
 
 #### 6. Start editing. Feel free to be bold and daring, deleting and adding pictures and text with abandon! No one will be able to see your site until you click the Publish button
 
+![EEB Logo 2]({{ site.baseurl }}/assets/img/eeb-logo-square-512x512.png)
+
 #### Tips
 
 * You do not need to publish your page before class; only publish it if you are satisfied with it and ready for anyone and everyone on the internet to see it.
