@@ -8,6 +8,8 @@ permalink: /web-sites/
 
 Written by Paul Lewis
 
+{% include figure.html description="EEB Logo" url="/img/eeb-logo-square-512x512.png" height="300px" css="image-right" %}
+
 A good goal for the Sep. 12 meeting of the Preparing for an EEB Career (EEB 5100) class would be for everyone to get started on creating a professional web site for themselves. Some of you have already done this, and those that have not should (for this class) create a new GitHub or Weebly site (see instructions below). During class, you will be expected to show us what you have created, even if it is still only a minimal page. Note that, if you already have a web site, don’t create a new one: just show us your current site next week (but perhaps use this as an opportunity to freshen up your site if it's gone a bit stale). We can troubleshoot problems, trade ideas and advice, and hopefully, by the time we meet on Sep. 6, everyone will either have a site they are happy about or know enough to get there soon.
 
 Feel free to contact [me](mailto:paul.lewis@uconn.edu) (paul.lewis@uconn.edu) if you have problems along the way: I'm happy to zoom with you or meet in person to help you get unstuck.
