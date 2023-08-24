@@ -5,7 +5,7 @@ This is the home page of the [UConn EEB department](https://eeb.uconn.edu)'s Gra
 
 ## Fall 2023 information
 
-We will meet this semester xxxxxx. The [schedule is here](schedule).
+We will meet this semester in the Bamford Room (TLS 171b) 3:45-5:00 on each Tuesday. The [schedule is here](schedule).
 
 If you need a permission number for this course, see the [Contact](contact-info) page.
 
