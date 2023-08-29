@@ -33,7 +33,7 @@ part in square brackets is the link text (what the viewer of the web page sees):
 
 ### How do I add a link to another page within this web site?
 
-This would produce a link to the schedule [schedule](/schedule/):
+This would produce a link to the [schedule](/schedule/):
 ~~~~~~
 [schedule]({{ site.baseurl }}/schedule/)
 ~~~~~~
