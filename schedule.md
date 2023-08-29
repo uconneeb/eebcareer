@@ -9,8 +9,8 @@ We are meeting this semester (Fall 2023) on Tuesdays 3:45-5pm in the Bamford Roo
 ### August 29    
 
 | :------------ | :---------------------------------------------- |
-| **Presenter** | [Chris Elphick](https://elphick.lab.uconn.edu/) |
-| **Topic**     | University/department structure and resources; Degree ontogenies |
+| **Presenter** | [Chris Elphick](https://elphick.lab.uconn.edu/) & [Elizabeth Jockusch] (https://jockusch.eeb.uconn.edu/) |
+| **Topic**     | University/department structure and resources; Trainings; Degree requirement |
 | **Resources** | Compliance & Resources slides |
 | **Notes**     | Homework: Build (or update) a professional web site--complete a draft website to share during class on next week. [Paul Lewis's very helpful instructions will get you started]({{ site.baseurl }}/web-sites/) |
 
