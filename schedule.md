@@ -19,7 +19,7 @@ We are meeting this semester (Fall 2023) on Tuesdays 3:45-5pm in the Bamford Roo
 | :------------- | :---------------------------------------------- |
 | **Presenters** | [Elizabeth Jockusch](https://jockusch.eeb.uconn.edu/) & [Chris Elphick](https://elphick.lab.uconn.edu/)|
 | **Topic**      | Mentoring |
-| **Resources**  | [Good mentoring (from Nature)](http://www.nature.com/nature/journal/v447/n7146/full/447791a.html)<br>[Getting mentoring (from Science)](http://www.sciencemag.org/careers/2014/01/getting-mentoring-you-need)<br>[Megan Duffy's mentoring plan outline (from Dynamic Ecology)](https://dynamicecology.wordpress.com/2017/01/09/mentoring-plans-a-really-useful-tool-for-pis-and-their-lab-members/) |
+| **Resources**  | [Good mentoring (from Nature)](http://www.nature.com/nature/journal/v447/n7146/full/447791a.html)<br>[Getting mentoring (from Science)](http://www.sciencemag.org/careers/2014/01/getting-mentoring-you-need)<br>[Meghan Duffy's mentoring plan outline (from Dynamic Ecology)](https://dynamicecology.wordpress.com/2017/01/09/mentoring-plans-a-really-useful-tool-for-pis-and-their-lab-members/) |
 | **Notes**      | Homework: Build (or update) a professional web site--complete a draft website to share during class on next week. [Paul Lewis's very helpful instructions will get you started]({{ site.baseurl }}/web-sites/) |
 
 ### September 12 
