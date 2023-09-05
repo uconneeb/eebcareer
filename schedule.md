@@ -30,6 +30,15 @@ We are meeting this semester (Fall 2023) on Tuesdays 3:45-5pm in the Bamford Roo
 | **Resources** | [Paul Lewis's instructions]({{ site.baseurl }}/web-sites/) |
 | **Notes**     | Homework: Identify, for next week's discussion, a person or activity that greatly influenced your learning |
 
+### September 19 
+
+| :------------- | :---------------------------------------------- |
+| **Presenters** | [Kurt Schwenk](http://hydrodictyon.eeb.uconn.edu/eebedia/index.php/Kurt_Schwenk) |
+| **Topic**      | Developing as a teacher |
+| **Resources**  | [Kurt's tips on learning](http://hydrodictyon.eeb.uconn.edu/eebedia/images/0/0b/Dr.SchwenkTeachingtTips.pdf)<br>[Tips on engaging students](http://hydrodictyon.eeb.uconn.edu/eebedia/images/b/bd/Harry%27sTeachingEngagement.pdf)<br>[Tips on how to learn](http://hydrodictyon.eeb.uconn.edu/eebedia/images/3/3c/HowBestToLearn.pdf)<br>[Benefits of Active learning for inclusivity](https://doi.org/10.1187/cbe.16-12-0344)<br>[](https://doi.org/10.1002/ece3.6300)<br>[Specimen-based research courses](https://doi.org/10.1093/iob/obaa004)<br>[Graduate Certificate in College Instruction](http://gcci.uconn.edu/) |
+| **Notes**      | Homework: come up with three questions for next week's alumni panel - email to Chris, before Monday morning |
+
+
 DETAILS BELOW THIS LINE STILL TO BE FINALIZED
 
 
@@ -44,14 +53,6 @@ DETAILS BELOW THIS LINE STILL TO BE FINALIZED
 | **Topic**      | Formulating good scientific questions |
 | **Resources**  | Alon 2009 on [choosing good scientific problems](http://www.sciencedirect.com/science/article/pii/S1097276509006418) <br>[Schwartz 2008](http://dx.doi.org/10.1242/jcs.033340) on the importance of stupidity in research <br>Founding of the NSF: [text](https://www.nsf.gov/od/lpa/nsf50/vbush1945.htm) [pdf](https://archive.org/details/scienceendlessfr00unit) <br>[Good](https://dynamicecology.wordpress.com/2012/10/20/advice-good-reasons-for-choosing-a-research-project-plus-some-bad-ones/) and [less good](https://dynamicecology.wordpress.com/2011/06/03/advice-weak-reasons-for-choosing-a-research-project/) reasons for choosing a question <br>Dan's blog posts on [finding inspiration](https://ecoevoevoeco.blogspot.com/2019/09/inspiration.html) and [fads](https://ecoevoevoeco.blogspot.com/2019/09/fads.html)<br>[Predictability of transformative research](https://doi.org/10.1016/j.tree.2017.08.012)<br>[100 Questions in Ecology](https:doi.org/10.1111/1365-2745.12025) |
 | **Notes**      | Homework: identify, for next week's discussion, 3-5 characteristics of good scientific questions |
-
-### September 26 
-
-| :------------- | :---------------------------------------------- |
-| **Presenters** | [Kurt Schwenk](http://hydrodictyon.eeb.uconn.edu/eebedia/index.php/Kurt_Schwenk), [Louise Lewis](https://algae.eeb.uconn.edu/), [Nick Van Gilder](https://www.instagram.com/n_v_g_/?hl=en) |
-| **Topic**      | Developing as a teacher |
-| **Resources**  | [Kurt's tips on learning](http://hydrodictyon.eeb.uconn.edu/eebedia/images/0/0b/Dr.SchwenkTeachingtTips.pdf)<br>[Tips on engaging students](http://hydrodictyon.eeb.uconn.edu/eebedia/images/b/bd/Harry%27sTeachingEngagement.pdf)<br>[Tips on how to learn](http://hydrodictyon.eeb.uconn.edu/eebedia/images/3/3c/HowBestToLearn.pdf)<br>[Benefits of Active learning for inclusivity](https://doi.org/10.1187/cbe.16-12-0344)<br>[](https://doi.org/10.1002/ece3.6300)<br>[Specimen-based research courses](https://doi.org/10.1093/iob/obaa004)<br>[Graduate Certificate in College Instruction](http://gcci.uconn.edu/) |
-| **Notes**      | Homework: come up with three questions for next week's alumni panel - email to Chris, before Monday morning |
 
 ### October 3    
 
