@@ -33,7 +33,7 @@ We are meeting this semester (Fall 2023) on Tuesdays 3:45-5pm in the Bamford Roo
 ### September 19 
 
 | :------------- | :---------------------------------------------- |
-| **Presenters** | [Kurt Schwenk](http://hydrodictyon.eeb.uconn.edu/eebedia/index.php/Kurt_Schwenk) |
+| **Presenters** | [Kurt Schwenk](http://hydrodictyon.eeb.uconn.edu/eebedia/index.php/Kurt_Schwenk) & Frank Muzio|
 | **Topic**      | Developing as a teacher |
 | **Resources**  | [Kurt's tips on learning]()<br>[Tips on engaging students]()<br>[Tips on how to learn]()<br>[Benefits of Active learning for inclusivity](https://doi.org/10.1187/cbe.16-12-0344)<br>[](https://doi.org/10.1002/ece3.6300)<br>[Specimen-based research courses](https://doi.org/10.1093/iob/obaa004)<br>[Graduate Certificate in College Instruction](http://gcci.uconn.edu/) |
 | **Notes**      | Homework: Identify at least 3 places outside of UConn where you could apply to get funding that would support research you are planning, or the type of organization you'd like to work for. ([This list](http://hydrodictyon.eeb.uconn.edu/eebedia/index.php/Funding_Sources) might be a good place to start, but notice that it is out of date.) For each, determine the due date, how much money you can ask for, and look over the grant requirements. |
