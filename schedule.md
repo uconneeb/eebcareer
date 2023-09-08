@@ -51,7 +51,7 @@ DETAILS BELOW THIS LINE STILL TO BE FINALIZED
 ### October 3    
 
 | :------------- | :---------------------------------------------- |
-| **Presenters** | [Sarah Bois](https://llnf.org/staff), Erin King, |
+| **Presenters** | [Sarah Bois](https://llnf.org/staff), Erin King (USDA-NRCS), |
 | **Topic**      | Alumni panel: Careers outside academia |
 | **Resources**  |  |
 | **Notes**      | Homework: identify, for next week's discussion, 3-5 characteristics of good scientific questions |
