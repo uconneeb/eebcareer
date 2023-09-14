@@ -11,7 +11,7 @@ We are meeting this semester (Fall 2023) on Tuesdays 3:45-5pm in the Bamford Roo
 | :------------ | :---------------------------------------------- |
 | **Presenter** | [Chris Elphick](https://elphick.lab.uconn.edu/) & [Elizabeth Jockusch](https://jockusch.eeb.uconn.edu/)|
 | **Topic**     | University/department structure and resources; Trainings; Degree requirement |
-| **Resources** | Compliance & Resources slides |
+| **Resources** | [Compliance & Resources slides](https://elphick.lab.uconn.edu/wp-content/uploads/sites/73/2023/09/EEB5100_F2023_intro_to_EEB.pdf) |
 | **Notes**     | Homework: (1) Identify, for next week's discussion, 3-5 qualities that you look for in a mentor. (2) Look ahead at start next week's homework early!!|
 
 ### September 5  
