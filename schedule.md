@@ -57,7 +57,7 @@ We are meeting this semester (Fall 2023) on Tuesdays 3:45-5pm in the Bamford Roo
 ### October 17   
 
 | :------------- | :---------------------------------------------- |
-| **Presenters** | [Colin Kremer](https://colinkremer.wordpress.com/) [Yaowu Yuan](https://monkeyflower.uconn.edu/) |
+| **Presenters** | [Colin Kremer](https://colinkremer.wordpress.com/), [Yaowu Yuan](https://monkeyflower.uconn.edu/) |
 | **Topic**      | Formulating good scientific questions |
 | **Resources**  | Alon 2009 on [choosing good scientific problems](http://www.sciencedirect.com/science/article/pii/S1097276509006418) <br>[Schwartz 2008](http://dx.doi.org/10.1242/jcs.033340) on the importance of stupidity in research <br>Founding of the NSF: [text](https://www.nsf.gov/od/lpa/nsf50/vbush1945.htm) [pdf](https://archive.org/details/scienceendlessfr00unit) <br>[Good](https://dynamicecology.wordpress.com/2012/10/20/advice-good-reasons-for-choosing-a-research-project-plus-some-bad-ones/) and [less good](https://dynamicecology.wordpress.com/2011/06/03/advice-weak-reasons-for-choosing-a-research-project/) reasons for choosing a question <br>Dan's blog posts on [finding inspiration](https://ecoevoevoeco.blogspot.com/2019/09/inspiration.html) and [fads](https://ecoevoevoeco.blogspot.com/2019/09/fads.html)<br>[Predictability of transformative research](https://doi.org/10.1016/j.tree.2017.08.012)<br>[100 Questions in Ecology](https:doi.org/10.1111/1365-2745.12025) |
 | **Notes**      | Homework: Homework: Identify at least 1 annual conference or professional society specific to your discipline |
