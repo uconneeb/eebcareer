@@ -91,13 +91,13 @@ We are meeting this semester (Fall 2023) on Tuesdays 3:45-5pm in the Bamford Roo
 | :------------- | :---------------------------------------------- |
 | **Presenters** | [Bernard Goffinet](https://bryology.uconn.edu/), [Robi Bagchi](https://bagchi.eeb.uconn.edu/) |
 | **Topic**      | Writing and Publishing |
-| **Resources**  | [Bernard and Liz's slides](https://drive.google.com/file/d/17Wm-o8V38q6Ukooead1W0TPU04xqH95Q/view?usp=sharing)<br>[The Writing Workshop](https://osf.io/z4n3t/) highlyrecommended by Liz!<br>[guide to Peer Review (British Ecological Society](http://www.britishecologicalsociety.org/wp-content/uploads/Publ_Peer-Review-Booklet.pdf)<br> |
+| **Resources**  | [Bernard and Liz's slides](https://drive.google.com/file/d/17Wm-o8V38q6Ukooead1W0TPU04xqH95Q/view?usp=sharing)<br>[The Writing Workshop](https://osf.io/z4n3t/) highly recommended for all grad students!<br>[guide to Peer Review (British Ecological Society)](http://www.britishecologicalsociety.org/wp-content/uploads/Publ_Peer-Review-Booklet.pdf)<br> |
 | **Notes**      | Homework: track the hours you spend on work this week (for discussion next week) |
 
 ### November 14  
 
 | :------------- | :---------------------------------------------- |
-| **Presenters** | [Jill Wegrzyn](http://compgenomics.lab.uconn.edu/), [Michael Finiguerra](https://finiguerra.eeb.uconn.edu/) |
+| **Presenters** | [Jill Wegrzyn](http://plantcompgenomics.com/), [Michael Finiguerra](https://finiguerra.eeb.uconn.edu/) |
 | **Topic**      | Work-life balance |
 | **Resources**  | [Jill and Mark's slides](https://drive.google.com/file/d/1_311q1RbU3kmEvCWT7_nlOksfO2EMddZ/view?usp=sharing)<br>[10 simple rules for balance](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009124)<br>[Grad perspective on balance](https://www.thetroutlook.com/latest-updates/work-life-balance-a-grad-students-perspective)<br>[Achieving balance with kids](https://www.nature.com/articles/d41586-018-07511-w) |
 | **Notes**      |  |
