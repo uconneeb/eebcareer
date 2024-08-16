@@ -4,7 +4,7 @@ title: Schedule
 permalink: /schedule/
 ---
 
-We are meeting this semester (Fall 2023) on Tuesdays 3:45-5pm in the Bamford Room (TLS 171b).
+We are meeting this semester (Fall 2024) on Tuesdays 3:50-5pm in the Bamford Room (TLS 171b).
 
 ### August 27    
 
