@@ -4,25 +4,25 @@ title: Web Sites Homework
 permalink: /web-sites/
 ---
 
-## due September 12, 2023
+## due September 3, 2024
 
 Written by Paul Lewis
 
 {% include figure.html description="EEB logo" url="/assets/img/eeb-logo-square-512x512.png" height="200px" css="image-right" %}
 
-A good goal for the Sep. 12 meeting of the Preparing for an EEB Career (EEB 5100) class would be for everyone to get started on creating a professional web site for themselves. Some of you have already done this, and those that have not should (for this class) create a new GitHub or Weebly site (see instructions below). During class, you will be expected to show us what you have created, even if it is still only a minimal page. Note that, if you already have a web site, don’t create a new one: just show us your current site next week (but perhaps use this as an opportunity to freshen up your site if it's gone a bit stale). We can troubleshoot problems, trade ideas and advice, and hopefully, by the time we meet on Sep. 6, everyone will either have a site they are happy about or know enough to get there soon.
+A good goal for the Sep. 3 meeting of the Preparing for an EEB Career (EEB 5100) class would be for everyone to get started on creating a professional web site for themselves. Some of you have already done this, and those that have not should (for this class) create a new GitHub or Weebly site (see instructions below). During class, you will be expected to show us what you have created, even if it is still only a minimal page. Note that, if you already have a web site, don’t create a new one: just show us your current site next week (but perhaps use this as an opportunity to freshen up your site if it's gone a bit stale). We can troubleshoot problems, trade ideas and advice, and hopefully, by the time we meet on Sep. 6, everyone will either have a site they are happy about or know enough to get there soon.
 
 Feel free to contact [me](mailto:paul.lewis@uconn.edu) (paul.lewis@uconn.edu) if you have problems along the way: I'm happy to zoom with you or meet in person to help you get unstuck.
 
 Before you start, visit [https://eeb.uconn.edu/graduate-students/](https://eeb.uconn.edu/graduate-students/) and view the web pages other grads have constructed. 
 
-Most if not all of these existing graduate student web sites are tied to UConn, which is good! When you leave UConn in a few years, the last thing you want to do is create a new web site, so it is good to use a system that is portable (independent of UConn) so that transitioning to a job or a postdoc involves only changing your contact information.
+Note that most (maybe all) of these existing graduate student web sites were created using web site systems **independent** of UConn, which is good! When you leave UConn in a few years, the last thing you want to do is create a new web site, so it is good to use a system that is portable (independent of UConn) so that transitioning to a job or a postdoc involves only changing your contact information.
 
 I provide instructions for creating a minimal web site for each of two online web hosting systems below: GitHub and Weebly. I encourage using GitHub for the reasons outlined below, but the most important thing is to get a web site up and running, so, if you are more comfortable with graphical drag-and-drop applications, then feel free to use Weebly for this exercise.
 
 One advantage of GitHub is that, in the process of creating your web page, you will learn how to use a version control system (git), which will be an important skill for your future scientific career. Version control was formerly only used by software developers, but today it is often used to maintain the integrity of any information that can be stored in a text file (manuscripts, datasets, web sites, etc.). [Git](https://git-scm.com) is currently the state-of-the-art in version control, and GitHub.com is the place where most git users store their primary repositories. In GitHub, a web site is created by editing text files using a shorthand called markdown that makes it easy to create and, more importantly, easily maintain, a professional web site. When you edit a file (either in a working copy on your local laptop or using the web interface provided by GitHub), you commit the modified files to your GitHub repository, and the changes automatically appear (nicely formatted) on your web site a few seconds later.
 
-Weebly is an alternative way to create a web site. You drag and drop photos or widgets onto a page to build it. With Weebly, you pretty much have to be happy with the tools provided, but it is possible to get a pretty nice looking web site up and running really fast.
+Weebly is an alternative way to create a web site. To use Weebly, you drag and drop photos or widgets onto a page to build it. With Weebly, you pretty much have to be happy with the tools provided, but it is possible to get a pretty nice looking web site up and running really fast.
 
 Choose either Weebly or GitHub and use the appropriate section below to get started. You can, of course, create web pages under both Weeby and GitHub and delete the one you like least afterwards. If you do this, keep both until after our meeting.
 
@@ -32,7 +32,7 @@ Choose either Weebly or GitHub and use the appropriate section below to get star
 
 #### 1. Sign up for an account at [Github](https://github.com).
 
-You'll need to supply a user name, an email address (to maintain portability, use your personal email address, not your UConn email address), and a password. Your ultimate web site will have the web address `xxxx.github.io`, where `xxxx` is your user name, so choose the user name carefully!
+You'll need to supply a user name, an email address (to maintain portability, use your personal email address, not your UConn email address), and a password. Your web site will be accessible to viewers using the web address `https://xxxx.github.io`, where `xxxx` is your user name, so choose the user name carefully!
 
 #### 2. Click the Create Account button
 
@@ -62,7 +62,9 @@ Choose a license for your website. You can click the little "i" next to the drop
 
 Press "Create Repository" to continue.
 
-#### 6. Your README.md already contains some text. Edit it by clicking on it and pressing the button with the pencil icon. Erase everything that’s there and replace it with the text below, substituting your own information everywhere you see REPLACE_WITH_XXXX placeholders.
+#### 6. Edit your README.md file
+
+Your README.md already contains some text. Edit it by clicking on it and pressing the button with the pencil icon. Erase everything that’s there and replace it with the text below, substituting your own information everywhere you see REPLACE_WITH_XXXX placeholders.
 
     ![Image of REPLACE_WITH_YOUR_NAME](images/headshot.png "REPLACE_WITH_SHORT_DESCRIPTION")
     
@@ -73,7 +75,7 @@ Press "Create Repository" to continue.
     
     [Contact Info](contact-info.html) 
 
-The text above contains links to folders (images, PDFs) and files (headshot.png, cv.pdf, contact-info.html) you have not yet created. Don't worry, we'll fix that momentarily.
+The text above contains links to folders (images, PDFs) and files (headshot.png, cv.pdf, contact-info.html) that you have not yet created. Don't worry, we'll fix that momentarily.
 
 Be sure to save your changes. You do this by typing a brief message (e.g. "added information about me to README file") in the first text box in the "Commit" section, then pressing the "Commit changes" button.
 
