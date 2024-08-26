@@ -14,15 +14,7 @@ We are meeting this semester (Fall 2024) on Tuesdays 3:50-5pm in the Bamford Roo
 | **Resources** | [Compliance & Resources slides](https://elphick.lab.uconn.edu/wp-content/uploads/sites/73/2023/09/EEB5100_F2023_intro_to_EEB.pdf) |
 | **Notes**     | Homework: (1) Identify, for next week's discussion, 3-5 qualities that you look for in a mentor. (2) Look ahead at start next week's homework early!!|
 
-### September 3  
-
-| :------------- | :---------------------------------------------- |
-| **Presenters** | [Elizabeth Jockusch](https://jockusch.eeb.uconn.edu/) & [Chris Elphick](https://elphick.lab.uconn.edu/)|
-| **Topic**      | Mentoring |
-| **Resources**  | [Good mentoring (from Nature)](http://www.nature.com/nature/journal/v447/n7146/full/447791a.html)<br>[Getting mentoring (from Science)](http://www.sciencemag.org/careers/2014/01/getting-mentoring-you-need)<br>[Meghan Duffy's mentoring plan outline (from Dynamic Ecology)](https://dynamicecology.wordpress.com/2017/01/09/mentoring-plans-a-really-useful-tool-for-pis-and-their-lab-members/) |
-| **Notes**      | Homework: Build (or update) a professional web site--complete a draft website to share during class on next week. [Paul Lewis's very helpful instructions will get you started]({{ site.baseurl }}/web-sites/) |
-
-### September 10 
+### September 3 
 
 | :------------ | :---------------------------------------------- |
 | **Presenter** | [Paul Lewis](https://phylogeny.uconn.edu/) |
@@ -30,15 +22,23 @@ We are meeting this semester (Fall 2024) on Tuesdays 3:50-5pm in the Bamford Roo
 | **Resources** | [Paul Lewis's instructions]({{ site.baseurl }}/web-sites/) |
 | **Notes**     | Homework: Identify, for next week's discussion, a person or activity that greatly influenced your learning |
 
+### September 10  
+
+| :------------- | :---------------------------------------------- |
+| **Presenters** | [Elizabeth Jockusch](https://jockusch.eeb.uconn.edu/) & [Chris Elphick](https://elphick.lab.uconn.edu/)|
+| **Topic**      | Mentoring |
+| **Resources**  | [Good mentoring (from Nature)](http://www.nature.com/nature/journal/v447/n7146/full/447791a.html)<br>[Getting mentoring (from Science)](http://www.sciencemag.org/careers/2014/01/getting-mentoring-you-need)<br>[Meghan Duffy's mentoring plan outline (from Dynamic Ecology)](https://dynamicecology.wordpress.com/2017/01/09/mentoring-plans-a-really-useful-tool-for-pis-and-their-lab-members/) |
+| **Notes**      | Homework: Build (or update) a professional web site--complete a draft website to share during class on next week. [Paul Lewis's very helpful instructions will get you started]({{ site.baseurl }}/web-sites/) |
+
 ### September 17 
 
 | :------------- | :---------------------------------------------- |
-| **Presenters** | [Kurt Schwenk](http://hydrodictyon.eeb.uconn.edu/eebedia/index.php/Kurt_Schwenk) & Frank Muzio|
+| **Presenters** | [Kurt Schwenk](http://hydrodictyon.eeb.uconn.edu/eebedia/index.php/Kurt_Schwenk) & TBD|
 | **Topic**      | Developing as a teacher |
 | **Resources**  | [Kurt's tips on learning](https://elphick.lab.uconn.edu/wp-content/uploads/sites/73/2023/09/Dr.SchwenkTeachingtTips_2021.pdf)<br>[Tips on engaging students](https://elphick.lab.uconn.edu/wp-content/uploads/sites/73/2023/09/HarrysTeachingEngagement.pdf)<br>[Tips on how to learn](https://elphick.lab.uconn.edu/wp-content/uploads/sites/73/2023/09/HowBestToLearn_2021.pdf)<br>[Benefits of Active learning for inclusivity](https://doi.org/10.1187/cbe.16-12-0344)<br>[](https://doi.org/10.1002/ece3.6300)<br>[Specimen-based research courses](https://doi.org/10.1093/iob/obaa004)<br>[Graduate Certificate in College Instruction](http://gcci.uconn.edu/) |
 | **Notes**      | Homework: Identify at least 3 places outside of UConn where you could apply to get funding that would support research you are planning, or the type of organization you'd like to work for. ([This list](http://hydrodictyon.eeb.uconn.edu/eebedia/index.php/Funding_Sources) might be a good place to start, but notice that it is out of date.) For each, determine the due date, how much money you can ask for, and look over the grant requirements. |
 
-### September 24
+### September 24 -- DETAILS FROM HERE ON STILL TO BE FINALIZED
 
 | :------------- | :---------------------------------------------- |
 | **Presenters** | [Mark Urban](http://hydrodictyon.eeb.uconn.edu/people/urban/), [Sarah Knutie](https://www.knutielab.com/) |
