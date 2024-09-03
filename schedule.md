@@ -20,7 +20,7 @@ We are meeting this semester (Fall 2024) on Tuesdays 3:50-5pm in the Bamford Roo
 | **Presenter** | [Paul Lewis](https://phylogeny.uconn.edu/) |
 | **Topic**     | Communicating your work: web sites |
 | **Resources** | [Paul Lewis's instructions]({{ site.baseurl }}/web-sites/) |
-| **Notes**     | Homework: (1) Identify, for next week's discussion, 3-5 qualities that you look for in a mentor. (2) Look ahead at start next week's homework early!!|
+| **Notes**     | Homework: (1) Identify, for next week's discussion, 3-5 qualities that you look for in a mentor.|
 
 ### September 10  
 
