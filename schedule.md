@@ -20,12 +20,12 @@ We are meeting this semester (Fall 2024) on Tuesdays 3:50-5pm in the Bamford Roo
 | **Presenter** | [Paul Lewis](https://phylogeny.uconn.edu/) |
 | **Topic**     | Communicating your work: web sites |
 | **Resources** | [Paul Lewis's instructions]({{ site.baseurl }}/web-sites/) |
-| **Notes**     | Homework: (1) Identify, for next week's discussion, 3-5 qualities that you look for in a mentor.|
+| **Notes**     | Homework: Identify, for next week's discussion, 3-5 qualities that you look for in a mentor.|
 
 ### September 10  
 
 | :------------- | :---------------------------------------------- |
-| **Presenters** | [Elizabeth Jockusch](https://jockusch.eeb.uconn.edu/) & [Chris Elphick](https://elphick.lab.uconn.edu/)|
+| **Presenters** | [Chris Elphick](https://elphick.lab.uconn.edu/) & Savanna Brown|
 | **Topic**      | Mentoring |
 | **Resources**  | [Good mentoring (from Nature)](http://www.nature.com/nature/journal/v447/n7146/full/447791a.html)<br>[Getting mentoring (from Science)](http://www.sciencemag.org/careers/2014/01/getting-mentoring-you-need)<br>[Meghan Duffy's mentoring plan outline (from Dynamic Ecology)](https://dynamicecology.wordpress.com/2017/01/09/mentoring-plans-a-really-useful-tool-for-pis-and-their-lab-members/) |
 | **Notes**      | Homework: Identify, for next week's discussion, a person or activity that greatly influenced your learning |
