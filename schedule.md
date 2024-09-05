@@ -41,7 +41,7 @@ We are meeting this semester (Fall 2024) on Tuesdays 3:50-5pm in the Bamford Roo
 ### September 24  
 
 | :------------- | :---------------------------------------------- |
-| **Presenters** | Franco Gigliotti, Vidya Vuruputoor, Kyle Rossner, TBD |
+| **Presenters** | Franco Gigliotti, Vidya Vuruputoor, Kyle Rossner, Katie Drumma |
 | **Topic**      | Grad panel: TAing, research & anything else you want to talk about! |
 | **Resources**  |  |
 | **Notes**      | Homework: Identify at least 3 places outside of UConn where you could apply to get funding that would support research you are planning, or the type of organization you'd like to work for. ([This list](http://hydrodictyon.eeb.uconn.edu/eebedia/index.php/Funding_Sources) might be a good place to start, but notice that it is out of date.) For each, determine the due date, how much money you can ask for, and look over the grant requirements. |
