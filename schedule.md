@@ -4,7 +4,7 @@ title: Schedule
 permalink: /schedule/
 ---
 
-We are meeting this semester (Fall 2024) on Tuesdays 3:50-5pm in the Bamford Room (TLS 171b).
+We are meeting this semester (Fall 2024) on Tuesdays 3:50-5pm in the Bamford Room (TLS 171b). 
 
 ### August 27    
 
@@ -27,7 +27,7 @@ We are meeting this semester (Fall 2024) on Tuesdays 3:50-5pm in the Bamford Roo
 | :------------- | :---------------------------------------------- |
 | **Presenters** | [Chris Elphick](https://elphick.lab.uconn.edu/) & Savanna Brown|
 | **Topic**      | Mentoring |
-| **Resources**  | [Good mentoring (from Nature)](http://www.nature.com/nature/journal/v447/n7146/full/447791a.html)<br>[Getting mentoring (from Science)](http://www.sciencemag.org/careers/2014/01/getting-mentoring-you-need)<br>[Meghan Duffy's mentoring plan outline (from Dynamic Ecology)](https://dynamicecology.wordpress.com/2017/01/09/mentoring-plans-a-really-useful-tool-for-pis-and-their-lab-members/) |
+| **Resources**  |[Mentoring slides](https://elphick-lab.media.uconn.edu/wp-content/uploads/sites/73/2024/09/EEB-5100-Mentoring.pdf) [Good mentoring (from Nature)](http://www.nature.com/nature/journal/v447/n7146/full/447791a.html)<br>[Getting mentoring (from Science)](http://www.sciencemag.org/careers/2014/01/getting-mentoring-you-need)<br>[Meghan Duffy's mentoring plan outline (from Dynamic Ecology)](https://dynamicecology.wordpress.com/2017/01/09/mentoring-plans-a-really-useful-tool-for-pis-and-their-lab-members/) |
 | **Notes**      | Homework: Identify, for next week's discussion, a person or activity that greatly influenced your learning |
 
 ### September 17 
