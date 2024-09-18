@@ -73,7 +73,7 @@ We are meeting this semester (Fall 2024) on Tuesdays 3:50-5pm in the Bamford Roo
 ### October 22   
 
 | :------------- | :---------------------------------------------- |
-| **Presenters** | [Karolina Heyduk](https://www.kheyduk.net/), TBD|
+| **Presenters** | [Karolina Heyduk](https://www.kheyduk.net/), Andrius Dagilis](https://adagilis.github.io/)|
 | **Topic**      | Conferences and professional societies |
 | **Resources**  |  |
 | **Notes**      | Homework: do all of the following: (1) Identify an ethical dilemma you have faced during work/school that you are comfortable sharing with the class; (2) Read [UConn's code of conduct](https://policy.uconn.edu/2011/05/17/employee-code-of-conduct/), especially the Research Principles section; (3) Look up the code of conduct for one professional society, meeting or academic institution of your choice |
@@ -81,7 +81,7 @@ We are meeting this semester (Fall 2024) on Tuesdays 3:50-5pm in the Bamford Roo
 ### October 29   
 
 | :------------- | :---------------------------------------------- |
-| **Presenters** | [Pam Diggle](https://pamela-diggle.scholar.uconn.edu), [Gene Likens](https://www.caryinstitute.org/science-program/our-scientists/dr-gene-e-likens), (watch the video [here](https://www.youtube.com/watch?v=TNG7g0eY2KM)) |
+| **Presenters** | [Pam Diggle](https://pamela-diggle.scholar.uconn.edu), TBD|
 | **Topic**      | Scientific ethics |
 | **Resources**  | [UConn RCR training](https://ovpr.uconn.edu/services/rics/responsible-conduct-of-research/)<br>Read [this blog post](https://dynamicecology.wordpress.com/2020/01/31/friday-links-240)<br>And, either [this](https://www.nature.com/articles/d41586-020-00287-y) or [this](https://www.sciencemag.org/news/2020/01/spider-biologist-denies-suspicions-widespread-data-fraud-his-animal-personality)<br>Updated post on [spider case](http://ecoevoevoeco.blogspot.com/2021/05/17-months.html?m=1) |
 | **Notes**      | Homework: Identify at least 2 journals relevant to your discipline; look up the impact factor, read the instructions to authors for each of the journals, and figure out the cost of publishing in each. |
@@ -92,14 +92,14 @@ We are meeting this semester (Fall 2024) on Tuesdays 3:50-5pm in the Bamford Roo
 | **Presenters** | [Bernard Goffinet](https://bryology.uconn.edu/), [Robi Bagchi](https://bagchi.eeb.uconn.edu/) |
 | **Topic**      | Writing and Publishing |
 | **Resources**  | [Slides](https://drive.google.com/file/d/17Wm-o8V38q6Ukooead1W0TPU04xqH95Q/view?usp=sharing)<br>[The Writing Workshop](https://osf.io/z4n3t/) highly recommended for all grad students!<br>[guide to Peer Review (British Ecological Society)](http://www.britishecologicalsociety.org/wp-content/uploads/Publ_Peer-Review-Booklet.pdf)<br> |
-| **Notes**      | Homework: track the hours you spend on work this week (for discussion next week) |
+| **Notes**      | Homework: Homework: Read Lopes et al. (2018) (linked below); fill out google form, and identify a piece of science outreach that has influenced you in some way |
 
 ### November 12  
 
 | :------------- | :---------------------------------------------- |
-| **Presenters** | [Jill Wegrzyn](http://plantcompgenomics.com/), [Michael Finiguerra](https://finiguerra.eeb.uconn.edu/) |
-| **Topic**      | Work-life balance |
-| **Resources**  | [Slides](https://drive.google.com/file/d/1_311q1RbU3kmEvCWT7_nlOksfO2EMddZ/view?usp=sharing)<br>[10 simple rules for balance](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009124)<br>[Grad perspective on balance](https://www.thetroutlook.com/latest-updates/work-life-balance-a-grad-students-perspective)<br>[Achieving balance with kids](https://www.nature.com/articles/d41586-018-07511-w) |
+| **Presenters** | [Margaret Rubega](http://rubegalab.uconn.edu/), [Jimmy Bernot](https://www.bernotlab.org/) |
+| **Topic**      | Outreach and communication outside academia |
+| **Resources**  | [Lopes et al. 2018](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000061)<br>[Lupia 2013](https://www.pnas.org/content/110/Supplement_3/14048)|
 | **Notes**      |  |
 
 ### November 19  
@@ -108,7 +108,7 @@ We are meeting this semester (Fall 2024) on Tuesdays 3:50-5pm in the Bamford Roo
 | **Presenters** | [Kent Holsinger](http://darwin.eeb.uconn.edu/) |
 | **Topic**      | Succeeding in graduate school & Long-term goals |
 | **Resources**  | [Kent's slides](http://hydrodictyon.eeb.uconn.edu/eebedia/images/8/8c/EEB-New-Graduate-Students-2022.pdf) |
-| **Notes**      | Homework: Read Lopes et al. (2018) (linked below); fill out google form, and identify a piece of science outreach that has influenced you in some way |
+| **Notes**      | track the hours you spend on work this week (for discussion next week) |
 
 ### November 26  
 
@@ -122,9 +122,9 @@ We are meeting this semester (Fall 2024) on Tuesdays 3:50-5pm in the Bamford Roo
 ### December 3   
 
 | :------------- | :---------------------------------------------- |
-| **Presenters** | [Margaret Rubega](http://rubegalab.uconn.edu/), [Dave Wagner](http://hydrodictyon.eeb.uconn.edu/people/dwagner/) |
-| **Topic**      | Outreach and communication outside academia |
-| **Resources**  | [Lopes et al. 2018](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000061)<br>[Lupia 2013](https://www.pnas.org/content/110/Supplement_3/14048)<br>[Dave's broader impact slides](http://hydrodictyon.eeb.uconn.edu/eebedia/images/0/0c/Broader_Impacts_2022_Core_Slides.pdf) |
+| **Presenters** | [Jill Wegrzyn](http://plantcompgenomics.com/), [Michael Finiguerra](https://finiguerra.eeb.uconn.edu/) |
+| **Topic**      | Work-life balance |
+| **Resources**  | [Slides](https://drive.google.com/file/d/1_311q1RbU3kmEvCWT7_nlOksfO2EMddZ/view?usp=sharing)<br>[10 simple rules for balance](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009124)<br>[Grad perspective on balance](https://www.thetroutlook.com/latest-updates/work-life-balance-a-grad-students-perspective)<br>[Achieving balance with kids](https://www.nature.com/articles/d41586-018-07511-w) |
 | **Notes**      |  |
 
 
