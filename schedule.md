@@ -81,7 +81,7 @@ We are meeting this semester (Fall 2024) on Tuesdays 3:50-5pm in the Bamford Roo
 ### October 29   
 
 | :------------- | :---------------------------------------------- |
-| **Presenters** | [Pam Diggle](https://pamela-diggle.scholar.uconn.edu), TBD|
+| **Presenters** | [Pam Diggle](https://pamela-diggle.scholar.uconn.edu), [Robi Bagchi](https://bagchi.eeb.uconn.edu/) 
 | **Topic**      | Scientific ethics |
 | **Resources**  | [UConn RCR training](https://ovpr.uconn.edu/services/rics/responsible-conduct-of-research/)<br>Read [this blog post](https://dynamicecology.wordpress.com/2020/01/31/friday-links-240)<br>And, either [this](https://www.nature.com/articles/d41586-020-00287-y) or [this](https://www.sciencemag.org/news/2020/01/spider-biologist-denies-suspicions-widespread-data-fraud-his-animal-personality)<br>Updated post on [spider case](http://ecoevoevoeco.blogspot.com/2021/05/17-months.html?m=1) |
 | **Notes**      | Homework: Identify at least 2 journals relevant to your discipline; look up the impact factor, read the instructions to authors for each of the journals, and figure out the cost of publishing in each. |
@@ -89,7 +89,7 @@ We are meeting this semester (Fall 2024) on Tuesdays 3:50-5pm in the Bamford Roo
 ### November 5   
 
 | :------------- | :---------------------------------------------- |
-| **Presenters** | [Bernard Goffinet](https://bryology.uconn.edu/), [Robi Bagchi](https://bagchi.eeb.uconn.edu/) |
+| **Presenters** | [Bernard Goffinet](https://bryology.uconn.edu/), TBD|
 | **Topic**      | Writing and Publishing |
 | **Resources**  | [Slides](https://drive.google.com/file/d/17Wm-o8V38q6Ukooead1W0TPU04xqH95Q/view?usp=sharing)<br>[The Writing Workshop](https://osf.io/z4n3t/) highly recommended for all grad students!<br>[guide to Peer Review (British Ecological Society)](http://www.britishecologicalsociety.org/wp-content/uploads/Publ_Peer-Review-Booklet.pdf)<br> |
 | **Notes**      | Homework: Homework: Read Lopes et al. (2018) (linked below); fill out google form, and identify a piece of science outreach that has influenced you in some way |
