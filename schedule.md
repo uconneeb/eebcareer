@@ -65,7 +65,7 @@ We are meeting this semester (Fall 2024) on Tuesdays 3:50-5pm in the Bamford Roo
 ### October 15  
 
 | :------------- | :---------------------------------------------- |
-| **Presenters** | [Sarah Bois](https://llnf.org/staff) (Linda Loring Nature Foundation), [Kevin Keegan](https://www.linkedin.com/in/kevin-keegan-660b3424) (Carnegie Museum of Natural History), TBD|
+| **Presenters** | [Sarah Bois](https://llnf.org/staff) (Linda Loring Nature Foundation), [Kevin Keegan](https://www.linkedin.com/in/kevin-keegan-660b3424) (Carnegie Museum of Natural History), Marilyn Gould (Connecticut Dept of Transportation)|
 | **Topic**      | Alumni panel: Careers outside academia |
 | **Resources**  |  |
 | **Notes**      | Homework: Identify at least 1 annual conference or professional society specific to your discipline |
