@@ -62,7 +62,7 @@ We are meeting this semester (Fall 2024) on Tuesdays 3:50-5pm in the Bamford Roo
 | **Resources**  | Alon 2009 on [choosing good scientific problems](http://www.sciencedirect.com/science/article/pii/S1097276509006418) <br>[Schwartz 2008](http://dx.doi.org/10.1242/jcs.033340) on the importance of stupidity in research <br>Founding of the NSF: [text](https://www.nsf.gov/od/lpa/nsf50/vbush1945.htm) [pdf](https://archive.org/details/scienceendlessfr00unit) <br>[Good](https://dynamicecology.wordpress.com/2012/10/20/advice-good-reasons-for-choosing-a-research-project-plus-some-bad-ones/) and [less good](https://dynamicecology.wordpress.com/2011/06/03/advice-weak-reasons-for-choosing-a-research-project/) reasons for choosing a question <br>Dan's blog posts on [finding inspiration](https://ecoevoevoeco.blogspot.com/2019/09/inspiration.html) and [fads](https://ecoevoevoeco.blogspot.com/2019/09/fads.html)<br>[Predictability of transformative research](https://doi.org/10.1016/j.tree.2017.08.012)<br>[100 Questions in Ecology](https:doi.org/10.1111/1365-2745.12025) |
 | **Notes**      | Homework: come up with at least three questions for next week's alumni panel - email to Chris, by Monday morning |
 
-### October 15  <--DETAILS FROM HERE ON STILL TO BE FINALIZED 
+### October 15  
 
 | :------------- | :---------------------------------------------- |
 | **Presenters** | [Sarah Bois](https://llnf.org/staff) (Linda Loring Nature Foundation), [Kevin Keegan](https://www.linkedin.com/in/kevin-keegan-660b3424) (Carnegie Museum of Natural History), TBD|
@@ -73,7 +73,7 @@ We are meeting this semester (Fall 2024) on Tuesdays 3:50-5pm in the Bamford Roo
 ### October 22   
 
 | :------------- | :---------------------------------------------- |
-| **Presenters** | [Karolina Heyduk](https://www.kheyduk.net/), Andrius Dagilis](https://adagilis.github.io/)|
+| **Presenters** | [Karolina Heyduk](https://www.kheyduk.net/), [Andrius Dagilis](https://adagilis.github.io/)|
 | **Topic**      | Conferences and professional societies |
 | **Resources**  |  |
 | **Notes**      | Homework: do all of the following: (1) Identify an ethical dilemma you have faced during work/school that you are comfortable sharing with the class; (2) Read [UConn's code of conduct](https://policy.uconn.edu/2011/05/17/employee-code-of-conduct/), especially the Research Principles section; (3) Look up the code of conduct for one professional society, meeting or academic institution of your choice |
