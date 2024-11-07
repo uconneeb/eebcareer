@@ -89,7 +89,7 @@ We are meeting this semester (Fall 2024) on Tuesdays 3:50-5pm in the Bamford Roo
 ### November 5   
 
 | :------------- | :---------------------------------------------- |
-| **Presenters** | [Bernard Goffinet](https://bryology.uconn.edu/), [Carlos Garcia-Robledo](https://carlosgarciarobledo.org/UCONN/)|
+| **Presenters** | [Bernard Goffinet](https://bryology.uconn.edu/), [Carlos García-Robledo](https://carlosgarciarobledo.org/UCONN/)|
 | **Topic**      | Writing and Publishing |
 | **Resources**  | [Slides](https://elphick-lab.media.uconn.edu/wp-content/uploads/sites/73/2024/11/EEB5100_2024_writing.pdf)<br>[The Writing Workshop](https://osf.io/z4n3t/) highly recommended for all grad students!<br>[guide to Peer Review (British Ecological Society)](http://www.britishecologicalsociety.org/wp-content/uploads/Publ_Peer-Review-Booklet.pdf)<br> |
 | **Notes**      | Homework: Homework: Read Lopes et al. (2018) (linked below); fill out google form, and identify a piece of science outreach that has influenced you in some way |
