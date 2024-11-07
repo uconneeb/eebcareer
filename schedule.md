@@ -99,7 +99,7 @@ We are meeting this semester (Fall 2024) on Tuesdays 3:50-5pm in the Bamford Roo
 | :------------- | :---------------------------------------------- |
 | **Presenters** | [Margaret Rubega](http://rubegalab.uconn.edu/), [Jimmy Bernot](https://www.bernotlab.org/) |
 | **Topic**      | Outreach and communication outside academia |
-| **Resources**  | [Lopes et al. 2018](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000061)<br>[Lupia 2013](https://www.pnas.org/content/110/Supplement_3/14048)|
+| **Resources**  | [Kahan 2015](https://jcom.sissa.it/article/pubid/JCOM_1403_2015_Y04/)<br>[Lopes et al. 2018](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000061)<br>[Lupia 2013](https://www.pnas.org/content/110/Supplement_3/14048)|
 | **Notes**      |  |
 
 ### November 19  
