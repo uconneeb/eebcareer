@@ -107,7 +107,7 @@ We are meeting this semester (Fall 2024) on Tuesdays 3:50-5pm in the Bamford Roo
 | :------------- | :---------------------------------------------- |
 | **Presenters** | [Kent Holsinger](http://darwin.eeb.uconn.edu/) |
 | **Topic**      | Succeeding in graduate school & Long-term goals |
-| **Resources**  | [How to get the most out of your advisor](https://lsa.umich.edu/content/dam/sweetland-assets/sweetland-documents/Graduates/DWG/The-care-and-maintenence-of-your-advisor.pdf)<br>[Planning ahead for your job search](https://www.chronicle.com/article/the-job-search-before-you-apply)<br>[Individual Development Plan templates](https://osf.io/6djsm/) [Kent's slides](http://hydrodictyon.eeb.uconn.edu/eebedia/images/8/8c/EEB-New-Graduate-Students-2022.pdf) |
+| **Resources**  | [How to get the most out of your advisor](https://lsa.umich.edu/content/dam/sweetland-assets/sweetland-documents/Graduates/DWG/The-care-and-maintenence-of-your-advisor.pdf)<br>[Planning ahead for your job search](https://www.chronicle.com/article/the-job-search-before-you-apply)<br>[Individual Development Plan templates](https://osf.io/6djsm/)<br>[Kent's slides](http://hydrodictyon.eeb.uconn.edu/eebedia/images/8/8c/EEB-New-Graduate-Students-2022.pdf) |
 | **Notes**      | track the hours you spend on work this week (for discussion next week) |
 
 ### November 26  
