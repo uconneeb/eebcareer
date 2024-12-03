@@ -124,7 +124,7 @@ We are meeting this semester (Fall 2024) on Tuesdays 3:50-5pm in the Bamford Roo
 | :------------- | :---------------------------------------------- |
 | **Presenters** | [Jill Wegrzyn](http://plantcompgenomics.com/), [Michael Finiguerra](https://finiguerra.eeb.uconn.edu/) |
 | **Topic**      | Work-life balance |
-| **Resources**  | [Slides](https://drive.google.com/file/d/1_311q1RbU3kmEvCWT7_nlOksfO2EMddZ/view?usp=sharing)<br>[10 simple rules for balance](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009124)<br>[Grad perspective on balance](https://www.thetroutlook.com/latest-updates/work-life-balance-a-grad-students-perspective)<br>[Achieving balance with kids](https://www.nature.com/articles/d41586-018-07511-w) |
+| **Resources**  | [Slides](https://drive.google.com/file/d/1_311q1RbU3kmEvCWT7_nlOksfO2EMddZ/view?usp=sharing)<br>[Full time is full enough](https://www.nature.com/articles/nj7656-175a)<br>[10 simple rules for balance](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009124)<br>[Grad perspective on balance](https://www.thetroutlook.com/latest-updates/work-life-balance-a-grad-students-perspective)<br>[Achieving balance with kids](https://www.nature.com/articles/d41586-018-07511-w) |
 | **Notes**      |  |
 
 
