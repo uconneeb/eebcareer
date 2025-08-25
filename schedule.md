@@ -4,24 +4,28 @@ title: Schedule
 permalink: /schedule/
 ---
 
-We are meeting this semester (Fall 2024) on Tuesdays 3:50-5pm in the Bamford Room (TLS 171b). 
+We are meeting this semester (Fall 2025) on Tuesdays 11 am - 12:15 pm in the Bamford Room (TLS 171b). 
 
-### August 6    
+Fall 2024 resources are available here: [2024 schedule](/schedule-F2024/)
+
+### August 26    
 
 | :------------ | :---------------------------------------------- |
-| **Presenter** | [Chris Elphick](https://elphick.lab.uconn.edu/) & [Elizabeth Jockusch](https://jockusch.eeb.uconn.edu/)|
+| **Presenter** | [Elizabeth Jockusch](https://jockusch.eeb.uconn.edu/)|
 | **Topic**     | University/department structure and resources; Trainings; Degree requirement |
-| **Resources** | [Compliance & Resources slides](https://elphick.lab.uconn.edu/wp-content/uploads/sites/73/2023/09/EEB5100_F2023_intro_to_EEB.pdf) |
-| **Notes**     | Homework: Build (or update) a professional web site--complete a draft website to share during class on next week. [Paul Lewis's very helpful instructions will get you started]({{ site.baseurl }}/web-sites/) |
+| **Resources** | [Compliance & Resources slides](https://) |
+| **Notes**     | Homework: Look at at least 1 mentoring plan; Identify, for next week's discussion, 3-5 qualities that you look for in a mentor (e.g., Meg Duffy's linked below |
 
 ### September 2 
 
 | :------------ | :---------------------------------------------- |
-| **Presenter** | [Paul Lewis](https://phylogeny.uconn.edu/) |
-| **Topic**     | Communicating your work: web sites |
-| **Resources** | [Paul Lewis's instructions]({{ site.baseurl }}/web-sites/) |
-| **Notes**     | Homework: Identify, for next week's discussion, 3-5 qualities that you look for in a mentor.|
+| **Presenter** | [Elizabeth Jockusch](https://jockusch.eeb.uconn.edu/)|
+| **Topic**     | Mentoring |
+| **Resources** | [Mentoring slides](https://elphick-lab.media.uconn.edu/wp-content/uploads/sites/73/2024/09/EEB-5100-Mentoring.pdf)<br> [Good mentoring (from Nature)](http://www.nature.com/nature/journal/v447/n7146/full/447791a.html)<br>[Getting mentoring (from Science)](http://www.sciencemag.org/careers/2014/01/getting-mentoring-you-need)<br>[Meghan Duffy's mentoring plan outline (from Dynamic Ecology)](https://dynamicecology.wordpress.com/2017/01/09/mentoring-plans-a-really-useful-tool-for-pis-and-their-lab-members/) |
+| **Notes**     | |
 
+### PLEASE IGNORE EVERYTHING BELOW--IT IS STILL 2024 INFORMATION; SCHEDULE IS IN PROGRESS
+ 
 ### September 9  
 
 | :------------- | :---------------------------------------------- |
