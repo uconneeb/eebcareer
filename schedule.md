@@ -8,6 +8,9 @@ We are meeting this semester (Fall 2025) on Tuesdays 11 am - 12:15 pm in the Bam
 
 Fall 2024 resources are available here: [2024 schedule](/schedule-F2024/)
 
+There are also a few good general resources at the [bottom on this page](#Useful readings).
+
+
 ### August 26    
 
 | :------------ | :---------------------------------------------- |
