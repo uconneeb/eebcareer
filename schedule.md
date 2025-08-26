@@ -13,7 +13,7 @@ Fall 2024 resources are available here: [2024 schedule](/schedule-F2024/)
 | :------------ | :---------------------------------------------- |
 | **Presenter** | [Elizabeth Jockusch](https://jockusch.eeb.uconn.edu/)|
 | **Topic**     | University/department resources; Trainings; Where do EEB grades end up?  |
-| **Resources** | [Compliance, Resources and Grad. School Path slides](https://drive.google.com/file/d/1jIW4w4y1Cqs1B93t_R3oWFhGif_oW_oI/view?usp=share_link) |
+| **Resources** | [Compliance, Resources and Grad. School Path slides](https://drive.google.com/file/d/1jIW4w4y1Cqs1B93t_R3oWFhGif_oW_oI/view?usp=share_link)<br> |[Orientation Slides](https://drive.google.com/file/d/1-gX9Q1VOLefh2N9taI3H5LHmLmSx1uvj/view?usp=share_link)
 | **Notes**     | Homework: Look through at least 1 mentoring plan (e.g., Meg Duffy's linked below); Identify 3-5 qualities that you look for in a mentor |
 
 ### September 2 
