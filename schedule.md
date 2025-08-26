@@ -14,7 +14,7 @@ Fall 2024 resources are available here: [2024 schedule](/schedule-F2024/)
 | **Presenter** | [Elizabeth Jockusch](https://jockusch.eeb.uconn.edu/)|
 | **Topic**     | University/department structure and resources; Trainings; Degree requirement |
 | **Resources** | [Compliance & Resources slides](https://) |
-| **Notes**     | Homework: Look at at least 1 mentoring plan; Identify, for next week's discussion (e.g., Meg Duffy's linked below), 3-5 qualities that you look for in a mentor |
+| **Notes**     | Homework: Look at at least 1 mentoring plan (e.g., Meg Duffy's linked below); Identify, for next week's discussion (e.g., Meg Duffy's linked below), 3-5 qualities that you look for in a mentor |
 
 ### September 2 
 
