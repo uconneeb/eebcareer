@@ -25,26 +25,26 @@ There are also a few good general resources at the [bottom on this page](#Useful
 | **Presenter** | [Elizabeth Jockusch](https://jockusch.eeb.uconn.edu/)|
 | **Topic**     | Mentoring |
 | **Resources** | [Mentoring slides to come]<br> [Good mentoring (from Nature)](http://www.nature.com/nature/journal/v447/n7146/full/447791a.html)<br>[Getting mentoring (from Science)](http://www.sciencemag.org/careers/2014/01/getting-mentoring-you-need)<br>[Meghan Duffy's mentoring plan outline (from Dynamic Ecology)](https://dynamicecology.wordpress.com/2017/01/09/mentoring-plans-a-really-useful-tool-for-pis-and-their-lab-members/) |
-| **Notes**     | |
+| **Notes**     |For next week, start drafting a professional website, [following this guide from Paul Lewis]({{ site.baseurl }}/web-sites/) or if you already have a professional website, take some time to update it. To enable sharing, please send me the link for your website before the start of class next week. Also, bring a list of things you wanted to do for the website or a model of what you are aiming for. We will spend some time in class working on these.|
 
-### PLEASE IGNORE EVERYTHING BELOW--IT IS STILL 2024 INFORMATION; SCHEDULE IS IN PROGRESS
- 
 ### September 9  
 
 | :------------- | :---------------------------------------------- |
-| **Presenters** | [Chris Elphick](https://elphick.lab.uconn.edu/) & Savanna Brown|
-| **Topic**      | Mentoring |
-| **Resources**  |[Mentoring slides](https://elphick-lab.media.uconn.edu/wp-content/uploads/sites/73/2024/09/EEB-5100-Mentoring.pdf)<br> [Good mentoring (from Nature)](http://www.nature.com/nature/journal/v447/n7146/full/447791a.html)<br>[Getting mentoring (from Science)](http://www.sciencemag.org/careers/2014/01/getting-mentoring-you-need)<br>[Meghan Duffy's mentoring plan outline (from Dynamic Ecology)](https://dynamicecology.wordpress.com/2017/01/09/mentoring-plans-a-really-useful-tool-for-pis-and-their-lab-members/) |
+| **Presenters** | [Paul Lewis](https://plewis.github.io)|
+| **Topic**      | Getting started on a website |
+| **Resources**  | [Paul Lewis's instructions]({{ site.baseurl }}/web-sites/)|
 | **Notes**      | Homework: Identify, for next week's discussion, a person or activity that greatly influenced your learning |
 
 ### September 16 
 
 | :------------- | :---------------------------------------------- |
-| **Presenters** | [Kurt Schwenk](http://hydrodictyon.eeb.uconn.edu/eebedia/index.php/Kurt_Schwenk) & Nick Van Gilder|
+| **Presenters** | [David Wagner](https://scholar.google.com/citations?user=CxLFoH8AAAAJ&hl=en) & TBD|
 | **Topic**      | Developing as a teacher |
-| **Resources**  | [Kurt and Nick's slides](https://elphick-lab.media.uconn.edu/wp-content/uploads/sites/73/2024/09/Developing-as-a-Teacher-2024-EEB5100_EDITED-KS.pdf)<br> [Kurt's tips on learning](https://elphick.lab.uconn.edu/wp-content/uploads/sites/73/2023/09/Dr.SchwenkTeachingtTips_2021.pdf)<br>[Tips on engaging students](https://elphick.lab.uconn.edu/wp-content/uploads/sites/73/2023/09/HarrysTeachingEngagement.pdf)<br>[Tips on how to learn](https://elphick.lab.uconn.edu/wp-content/uploads/sites/73/2023/09/HowBestToLearn_2021.pdf)<br>[Benefits of Active learning for inclusivity](https://doi.org/10.1187/cbe.16-12-0344)<br>[](https://doi.org/10.1002/ece3.6300)<br>[Specimen-based research courses](https://doi.org/10.1093/iob/obaa004)<br>[Graduate Certificate in College Instruction](http://gcci.uconn.edu/) |
-| **Notes**      | Homework: come up with three questions for next week's grad student panel - email to Chris, before Monday morning.|
+| **Resources**  | [slides to come]()<br> [Kurt's 2024 tips on learning](https://elphick.lab.uconn.edu/wp-content/uploads/sites/73/2023/09/Dr.SchwenkTeachingtTips_2021.pdf)<br>[Tips on engaging students](https://elphick.lab.uconn.edu/wp-content/uploads/sites/73/2023/09/HarrysTeachingEngagement.pdf)<br>[Tips on how to learn](https://elphick.lab.uconn.edu/wp-content/uploads/sites/73/2023/09/HowBestToLearn_2021.pdf)<br>[Benefits of Active learning for inclusivity](https://doi.org/10.1187/cbe.16-12-0344)<br>[](https://doi.org/10.1002/ece3.6300)<br>[Specimen-based research courses](https://doi.org/10.1093/iob/obaa004)<br>[Graduate Certificate in College Instruction](http://gcci.uconn.edu/) |
+| **Notes**      | Homework: stay tuned.....|
 
+### PLEASE IGNORE EVERYTHING BELOW--IT IS STILL 2024 INFORMATION; SCHEDULE IS IN PROGRESS
+ 
 ### September 23  
 
 | :------------- | :---------------------------------------------- |
