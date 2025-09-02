@@ -18,17 +18,17 @@ Feel free to contact [me](mailto:paul.lewis@uconn.edu) (paul.lewis@uconn.edu) if
 
 ### Peruse existing graduate student sites
 
-Before you start, visit [https://draft.eeb.uconn.edu/graduate-students-2/?](https://draft.eeb.uconn.edu/graduate-students-2/? and view the web pages other grads have constructed (not every EEB graduate student has a web site; you'll have to click on their name and see if one is listed at the bottom of their people page). 
+Before you start, visit the [EEB web site](https://draft.eeb.uconn.edu/graduate-students-2/?) and view the web pages other grads have constructed (not every EEB graduate student has a web site; you'll have to click on their name and see if one is listed at the bottom of their people page). 
 
 Note that most (maybe all) of these existing graduate student web sites were created using web site systems **independent** of UConn, which is good! When you leave UConn in a few years, the last thing you want to do is create a new web site, so it is good to use a system that is portable (independent of UConn) so that transitioning to a job or a postdoc involves only changing your contact information.
 
 ### Choosing a platform
 
-I provide instructions for creating a minimal web site for each of two online web hosting systems below: GitHub and Weebly. I encourage using GitHub for the reasons outlined below, but the most important thing is to get a web site up and running, so, if you are more comfortable with graphical drag-and-drop applications, then feel free to use Weebly for this exercise.
+I provide instructions for creating a minimal web site for each of two online web hosting systems below: **GitHub** and **Weebly**. I encourage using GitHub for the reasons outlined below, but the most important thing is to get a web site up and running, so, if you are more comfortable with graphical drag-and-drop applications, then feel free to use Weebly for this exercise.
 
-One advantage of GitHub is that, in the process of creating your web page, you will learn how to use a version control system (git), which will be an important skill for your future scientific career. Version control was formerly only used by software developers, but today it is often used to maintain the integrity of any information that can be stored in a text file (manuscripts, datasets, web sites, etc.). [Git](https://git-scm.com) is currently the state-of-the-art in version control, and [GitHub.com](https://github.com) is the place where most git users store their primary repositories. In GitHub, a web site is created by editing text files using a shorthand called markdown that makes it easy to create a professional web site and, more importantly, easily maintain it. When you edit a file (either in a working copy on your local laptop or using the web interface provided by GitHub), you commit the modified files to your GitHub repository, and the changes automatically appear (nicely formatted) on your web site a few seconds later.
+One advantage of **GitHub** is that, in the process of creating your web page, you will learn how to use a version control system (git), which will be an important skill for your future scientific career. Version control was formerly only used by software developers, but today it is often used to maintain the integrity of any information that can be stored in a text file (manuscripts, datasets, web sites, etc.). [Git](https://git-scm.com) is currently the state-of-the-art in version control, and [GitHub.com](https://github.com) is the place where most git users store their primary repositories. In GitHub, a web site is created by editing text files using a shorthand called markdown that makes it easy to create a professional web site and, more importantly, easily maintain it. When you edit a file (either in a working copy on your local laptop or using the web interface provided by GitHub), you commit the modified files to your GitHub repository, and the changes automatically appear (nicely formatted) on your web site a few seconds later.
 
-Weebly is an alternative way to create a web site. To use Weebly, you drag and drop photos or widgets onto a page to build it. With Weebly, you pretty much have to be happy with the tools provided, but it is possible to get a pretty nice looking web site up and running really fast.
+**Weebly** is an alternative way to create a web site. To use Weebly, you drag and drop photos or widgets onto a page to build it. With Weebly, you pretty much have to be happy with the tools provided, but it is possible to get a pretty nice looking web site up and running really fast.
 
 Choose either Weebly or GitHub and use the appropriate section below to get started. You can, of course, create web pages under both Weeby and GitHub and delete the one you like least afterwards.
 
@@ -48,11 +48,11 @@ Once last note: you can always purchase or otherwise obtain a personal [domain n
 
 Click the Create Account button.
 
-Leave everything set to the defaults (check unlimited public repositories for free, and don't check any checkboxes). Press the Continue button.
+Leave everything set to the defaults (check unlimited public repositories for free, and don't check any checkboxes). Press the "Continue" button.
 
 #### 3. Tailor your experience
 
-Provide whatever information you want in this section, then press the Submit button.
+Provide whatever information you want in this section, then press the "Submit" button.
 
 #### 4. Click "Start a Project”.
 
@@ -60,13 +60,13 @@ You'll be asked to confirm your email address before continuing further. This wi
 
 #### 5. Choose a repository name.
 
-To create a web site, GitHub demands that you use a specific name for your repository: specify xxxx.github.io, where xxxx is exactly the same as the username you chose in step 1.
+To create a web site, GitHub demands that you use a specific name for your repository: specify `xxxx.github.io`, where `xxxx` is exactly the same as the username you chose in step 1.
 
 Keep "Public" checked (checking private will require you to pay money).
 
 Be sure to check "Initialize this repository with a README".
 
-You need not add a `.gitignore` file at this time. It is easy to add one later if you need it. The `.gitignore` file lists files and that you do not care to keep under version control (i.e. you don't care if you lose this file in the future).
+You need not add a _.gitignore_ file at this time. It is easy to add one later if you need it. The _.gitignore_ file lists files and that you do not care to keep under version control (i.e. you don't care if you lose this file in the future).
 
 Choose a license for your website. You can click the little "i" next to the drop-down list box to read about how to choose an open source license. If in doubt, you can avoid making a choice, but it is probably better to choose any of these options than to leave it set to None. The MIT license is a popular choice due to its simplicity.
 
@@ -74,7 +74,7 @@ Press "Create Repository" to continue.
 
 #### 6. Edit your README.md file
 
-Your README.md already contains some text. Edit it by clicking on it and pressing the button with the pencil icon. Erase everything that’s there and replace it with the text below, substituting your own information everywhere you see REPLACE_WITH_XXXX placeholders.
+Your _README.md_ already contains some text. Edit it by clicking on it and pressing the button with the pencil icon. Erase everything that’s there and replace it with the text below, substituting your own information everywhere you see `REPLACE_WITH_XXXX` placeholders.
 
     ![Image of REPLACE_WITH_YOUR_NAME](images/headshot.png "REPLACE_WITH_SHORT_DESCRIPTION")
     
@@ -99,7 +99,9 @@ Point your browser to `https://xxxx.github.io`, replacing `xxxx` with your usern
 
 #### 9. Adding an image
 
-First, create an image of yourself and name the file _headshot.jpg_. I recommend resizing the image to 300x300 pixels in whatever software you use for playing with images (e.g. Photoshop, Preview, etc.). While it is not necessary to resize the image, smaller images will load faster for folks visiting your web site. We're going to put this image in a directory named _images_. GitHub does not let you create empty directories, so we'll sneakily create a dummy file in the images directory and then later delete the dummy file once we've uploaded the image file.
+First, create an image of yourself and name the file _headshot.jpg_. I recommend resizing the image to 300x300 pixels in whatever software you use for playing with images (e.g. Photoshop, Preview, etc.). While it is not necessary to resize the image, smaller images will load faster for folks visiting your web site. We're going to put this image in a directory named _images_. 
+
+**GitHub does not let you create empty directories**, so we'll sneakily create a dummy file in the images directory and then later delete the dummy file once we've uploaded the image file.
 
 Click on the "Add file" button and then the "Create new file" button and enter _images/dummy.txt_. Add some dummy text and commit the file. Now enter the images directory and click the "Upload files" button. Find your _headshot.jpg_ file and upload it. You'll need to commit the change or else GitHub will ignore the upload.
 
@@ -134,13 +136,13 @@ Click the "Add file" and "Create new file" buttons and type _contact-info.md_ in
     
     [Back to Home](https://xxxx.github.io/)
 
-Don't forget to replace `xxxx` with your user name on that last line, and replace the other `REPLACE_WITH_xxxx` templates with appropriate text. Be sure to put a blank line between "Postal address:" and the first line of your address. 
+Don't forget to replace `xxxx` with your user name on that last line, and replace the other `REPLACE_WITH_xxxx` templates with appropriate text. Be sure to put a **blank line** between "Postal address:" and the first line of your address. 
 
-Also, indent each line of your address using exactly 4 spaces (not a tab character). The 4 spaces cause GitHub Pages to format these lines as "code"; that is, with a fixed-width font. 
+Also, **indent** each line of your address using **exactly 4 spaces** (not a tab character). The 4 spaces cause GitHub Pages to format these lines as "code"; that is, with a fixed-width font. 
 
-The angled brackets surrounding your email address are also important. That creates a link to your email address that is encrypted so that hackers and spammers cannot glean email addresses from your web page. To read more of what you can do in a Markdown file, see [Markdown Cheatsheet](http://assemble.io/docs/Cheatsheet-Markdown.html) or similar pages.
+The **angled brackets** surrounding your email address are also important. That creates a link to your email address that is encrypted so that hackers and spammers cannot glean email addresses from your web page. To read more of what you can do in a Markdown file, see [Markdown Cheatsheet](http://assemble.io/docs/Cheatsheet-Markdown.html) or similar pages.
 
-Note that links to web sites follow this pattern: `[label](URL)`. The label is what you want to appear in your web page. The URL is the internet address (e.g. `https://plewis.github.io`) that links to the page that the label describes.
+Note that **links to web sites** follow this pattern: `[label](URL)`. The label is what you want to appear in your web page. The URL is the internet address (e.g. `https://plewis.github.io`) that links to the page that the label describes.
 
 That's it! Your minimal web site is now complete and should work properly within a browser within a minute or two. If you want to see the example I created in the process of creating these instructions, check out [https://uconneeb.github.io/eebgrad/](https://uconneeb.github.io/eebgrad/).
 
@@ -150,7 +152,7 @@ Feel free to read more about [GitHub pages](https://pages.github.com) and [take 
 
 #### 1. Sign up for an account at weebly.com.
 
-#### 2. Once you have a Weebly account, click the + button to create a new site.
+#### 2. Once you have a Weebly account, click the "+" button to create a new site.
 
 #### 3. When asked "What type of website are you creating?" choose "Personal"
 
@@ -164,21 +166,21 @@ Feel free to read more about [GitHub pages](https://pages.github.com) and [take 
 
 * You do not need to publish your page before class; only publish it if you are satisfied with it and ready for anyone and everyone on the internet to see it.
 
-* Clicking on the Pages tab will show you the separate pages that the theme generated for you automatically - you may want to delete some (and certainly will want to modify all) of these before pushing the Publish button.
+* Clicking on the "Pages" tab will show you the separate pages that the theme generated for you automatically - you may want to delete some (and certainly will want to modify all) of these before pushing the "Publish" button.
 
-* Each page that appears when you select Pages will be a main menu item.
+* Each page that appears when you select "Pages" will be a main menu item.
 
-* Click the Build tab from the main menu to work on a page you have selected from the Pages tab.
+* Click the "Build" tab from the main menu to work on a page you have selected from the "Pages" tab.
 
-* Clicking an X will generally delete an element.
+* Clicking an "X" will generally delete an element.
 
-* Under the Build tab, there should be a palette on the left of items you can add to your page - just drag and drop (but don't drop too fast; move your mouse around - with the mouse button still held down - to see various options for positioning your item before dropping it).
+* Under the "Build" tab, there should be a palette on the left of items you can add to your page - just drag and drop (but don't drop too fast; move your mouse around - with the mouse button still held down - to see various options for positioning your item before dropping it).
 
 * To replace an image, click on it to get a dialog box that allows you to choose another image to replace the current one.
 
 * If you want paragraphs of text separated by space, note that you can drag a separate Text widget onto your page (might be more visually appealing than adding blank spaces).
 
-* Visit the support page under the Help tab on the main menu - there are some tutorials for beginners that might be worth watching if you get stuck.
+* Visit the support page under the "Help" tab on the main menu - there are some tutorials for beginners that might be worth watching if you get stuck.
 
 ### Your web site should contain at least the following things:
 
