@@ -4,7 +4,7 @@ title: Schedule
 permalink: /schedule/
 ---
 
-We are meeting this semester (Fall 2025) on Tuesdays 11 am - 12:15 pm in the Bamford Room (TLS 171b). 
+We are meeting this semester (Fall 2025) on Tuesdays 11 am - 12:15 pm in PBB 303 (aka "the fishbowl"). 
 
 Fall 2024 resources are available here: [2024 schedule](/schedule-F2024/)
 
