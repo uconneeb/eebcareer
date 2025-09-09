@@ -6,7 +6,7 @@ permalink: /schedule/
 
 We are meeting this semester (Fall 2025) on Tuesdays 11 am - 12:15 pm in PBB 303 (aka "the fishbowl"). 
 
-Fall 2024 resources are available here: [2024 schedule](/schedule-F2024/)
+Fall 2024 resources are available here: [2024 schedule](schedule-F2024)
 
 There are also a few good general resources at the [bottom on this page](#Useful readings).
 
