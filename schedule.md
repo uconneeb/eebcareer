@@ -38,7 +38,7 @@ There are also a few good general resources at the [bottom on this page](#Useful
 ### September 16 
 
 | :------------- | :---------------------------------------------- |
-| **Presenters** | [David Wagner](https://scholar.google.com/citations?user=CxLFoH8AAAAJ&hl=en) & TBD|
+| **Presenters** | [David Wagner](https://scholar.google.com/citations?user=CxLFoH8AAAAJ&hl=en) & Nick Van Gilder|
 | **Topic**      | Developing as a teacher |
 | **Resources**  | [slides to come]()<br> [Kurt's 2024 tips on learning](https://elphick.lab.uconn.edu/wp-content/uploads/sites/73/2023/09/Dr.SchwenkTeachingtTips_2021.pdf)<br>[Tips on engaging students](https://elphick.lab.uconn.edu/wp-content/uploads/sites/73/2023/09/HarrysTeachingEngagement.pdf)<br>[Tips on how to learn](https://elphick.lab.uconn.edu/wp-content/uploads/sites/73/2023/09/HowBestToLearn_2021.pdf)<br>[Benefits of Active learning for inclusivity](https://doi.org/10.1187/cbe.16-12-0344)<br>[](https://doi.org/10.1002/ece3.6300)<br>[Specimen-based research courses](https://doi.org/10.1093/iob/obaa004)<br>[Graduate Certificate in College Instruction](http://gcci.uconn.edu/) |
 | **Notes**      | Homework: stay tuned.....|
