@@ -41,11 +41,18 @@ There are also a few good general resources at the [bottom on this page](#Useful
 | **Presenters** | [David Wagner](https://scholar.google.com/citations?user=CxLFoH8AAAAJ&hl=en) & Nick Van Gilder|
 | **Topic**      | Developing as a teacher |
 | **Resources**  | [slides to come]()<br> [Kurt's 2024 tips on learning](https://elphick.lab.uconn.edu/wp-content/uploads/sites/73/2023/09/Dr.SchwenkTeachingtTips_2021.pdf)<br>[Tips on engaging students](https://elphick.lab.uconn.edu/wp-content/uploads/sites/73/2023/09/HarrysTeachingEngagement.pdf)<br>[Tips on how to learn](https://elphick.lab.uconn.edu/wp-content/uploads/sites/73/2023/09/HowBestToLearn_2021.pdf)<br>[Benefits of Active learning for inclusivity](https://doi.org/10.1187/cbe.16-12-0344)<br>[](https://doi.org/10.1002/ece3.6300)<br>[Specimen-based research courses](https://doi.org/10.1093/iob/obaa004)<br>[Graduate Certificate in College Instruction](http://gcci.uconn.edu/) |
-| **Notes**      | Homework: stay tuned.....|
+| **Notes**      | Homework: do all of the following: (1) Identify an ethical dilemma you have faced during work/school that you are comfortable sharing with the class; (2) Read [UConn's code of conduct](https://policy.uconn.edu/2011/05/17/employee-code-of-conduct/), especially the Research Principles section; (3) Look up the code of conduct for one professional society, meeting or academic institution of your choice|
+
+### September 23  
+| :------------- | :---------------------------------------------- |
+| **Presenters** | [Robi Bagchi](https://bagchi.eeb.uconn.edu/) & [Jimmy Bernot](https://www.bernotlab.org/)
+| **Topic**      | Scientific ethics |
+| **Resources**  | [UConn RCR training](https://ovpr.uconn.edu/services/rics/responsible-conduct-of-research/)<br>Read [this blog post](https://dynamicecology.wordpress.com/2020/01/31/friday-links-240)<br>And, either [this](https://www.nature.com/articles/d41586-020-00287-y) or [this](https://www.sciencemag.org/news/2020/01/spider-biologist-denies-suspicions-widespread-data-fraud-his-animal-personality)<br>Updated post on [spider case](http://ecoevoevoeco.blogspot.com/2021/05/17-months.html?m=1) |
+| **Notes**      | Homework: Identify at least 2 journals relevant to your discipline; look up the impact factor, read the instructions to authors for each of the journals, and figure out the cost of publishing in each. |
+
 
 ### PLEASE IGNORE EVERYTHING BELOW--IT IS STILL 2024 INFORMATION; SCHEDULE IS IN PROGRESS
  
-### September 23  
 
 | :------------- | :---------------------------------------------- |
 | **Presenters** | Franco Gigliotti, Vidya Vuruputoor, Kyle Rossner, Katie Drumma |
@@ -59,9 +66,7 @@ There are also a few good general resources at the [bottom on this page](#Useful
 | **Presenters** | [Mark Urban](http://hydrodictyon.eeb.uconn.edu/people/urban/), [Sarah Knutie](https://www.knutielab.com/) |
 | **Topic**      | Funding your research |
 | **Resources**  | [Mark's slides](https://drive.google.com/file/d/1p8YoqpXJy93Ilf4h0R15_9mjAvNf2LRZ/view?usp=sharing)<br>[Sarah's slides](https://drive.google.com/file/d/1qpns63eKEmDGURq9dOY201oAqI4zhZ9h/view?usp=sharing)<br>[Grad-compiled funding page](http://hydrodictyon.eeb.uconn.edu/eebedia/index.php/Funding_Sources)<br>[Pivot](https://guides.lib.uconn.edu/grants/Pivot) searchable database of funding opportunities |
-| **Notes**      | Homework: identify, for next week's discussion, 3-5 characteristics of good scientific questions |
-
-### October 7   
+| **Notes**      | Homework: identify, for next week's discussion, 3-5 characteristics of good scientific questions |### October 7   
 
 | :------------- | :---------------------------------------------- |
 | **Presenters** | [Colin Kremer](https://colinkremer.wordpress.com/), [Yaowu Yuan](https://monkeyflower.uconn.edu/) |
