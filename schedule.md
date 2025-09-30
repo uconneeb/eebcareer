@@ -49,12 +49,12 @@ There are also a few good general resources at the [bottom on this page](#Useful
 | **Presenters** | [Robi Bagchi](https://bagchi.eeb.uconn.edu/) & [Jimmy Bernot](https://www.bernotlab.org/)
 | **Topic**      | Scientific ethics |
 | **Resources**  | [UConn RCR training](https://ovpr.uconn.edu/services/rics/responsible-conduct-of-research/)<br>Read [this blog post](https://dynamicecology.wordpress.com/2020/01/31/friday-links-240)<br>And, either [this](https://www.nature.com/articles/d41586-020-00287-y) or [this](https://www.sciencemag.org/news/2020/01/spider-biologist-denies-suspicions-widespread-data-fraud-his-animal-personality)<br>Updated post on [spider case](http://ecoevoevoeco.blogspot.com/2021/05/17-months.html?m=1) |
-| **Notes**      | Homework:Read Lopes et al. (2018) (linked below); fill out google form, and identify a piece of science outreach that has influenced you in some way |
+| **Notes**      | Homework:Read Lopes et al. (2018) (linked below) and identify a piece of science outreach that has influenced you in some way. Kahan (2015) (linked below) is also recommended as highly relevant|
 
 ### September 30  
 
 | :------------- | :---------------------------------------------- |
-| **Presenters** | [Margaret Rubega](http://rubegalab.uconn.edu/) |
+| **Presenters** | [Margaret Rubega](http://rubegalab.uconn.edu/) and Alexandra Thornton |
 | **Topic**      | Outreach and communication outside academia |
 | **Resources**  | [Kahan 2015](https://jcom.sissa.it/article/pubid/JCOM_1403_2015_Y04/)<br>[Lopes et al. 2018](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000061)<br>[Lupia 2013](https://www.pnas.org/content/110/Supplement_3/14048)|
 | **Notes**      | Homework: come up with at least three questions for next week's alumni panel - email to Elizabeth, by Monday morning |
