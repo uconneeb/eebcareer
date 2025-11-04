@@ -98,7 +98,7 @@ There are also a few good general resources at the [bottom on this page](#Useful
 | **Presenters** | [Karolina Heyduk](https://www.kheyduk.net/), [Andrius Dagilis](https://adagilis.github.io/)|
 | **Topic**      | Conferences and professional societies |
 | **Resources**  |  |
-| **Notes**      | Homework: Identify at least 2 journals relevant to your discipline; look up the impact factor, read the instructions to authors for each of the journals, and figure out the cost of publishing in each. |
+| **Notes**      | Homework: Identify at least 2 journals relevant to your discipline; look up the impact factor, read the instructions to authors for each of the journals, determine what kind of journal it is (e.g., society-sponsored, for profit) and figure out the cost of publishing in each. |
 
 ### November 11
 
