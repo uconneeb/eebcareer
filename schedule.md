@@ -80,7 +80,7 @@ There are also a few good general resources at the [bottom on this page](#Useful
 | :------------- | :---------------------------------------------- |
 | **Presenters** | Current Graduate Students Emma Choi, Matthew Donohue, Young Kim, Coleman Pushlar|
 | **Topic**      | Grad panel: TAing, research & anything else you want to talk about! |
-| **Resources**  |  
+| **Resources**  |  |
 | **Notes**      |Homework: Identify at least 3 places outside of UConn where you could apply to get funding that would support research you are planning, or the type of organization you'd like to work for. For each, determine the due date, how much money you can ask for, and look over the grant requirements.|
 
 
