@@ -62,7 +62,7 @@ There are also a few good general resources at the [bottom on this page](#Useful
 ### October 7  
 
 | :------------- | :---------------------------------------------- |
-| **Presenters** | Erin King (USDA), [Kevin Keegan] (https://www.linkedin.com/in/kevin-keegan-660b3424/) (Carnegie Museum of Natural History), [Teisha King](https://genome-postbac.biology.clas.uconn.edu/person/teisha-king-ph-d/)  RaMP Postbac Coordinator, UConn |
+| **Presenters** | Erin King (USDA), [Kevin Keegan](https://www.linkedin.com/in/kevin-keegan-660b3424/) (Carnegie Museum of Natural History), [Teisha King](https://genome-postbac.biology.clas.uconn.edu/person/teisha-king-ph-d/) RaMP Postbac Coordinator, UConn |
 | **Topic**      | Alumni panel: 'Alternative' Careers |
 | **Resources**  |  |
 | **Notes**      | Homework: identify, for next week's discussion, 3-5 characteristics of good scientific questions |
