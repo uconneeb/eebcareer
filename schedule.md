@@ -62,9 +62,9 @@ There are also a few good general resources at the [bottom on this page](#Useful
 ### October 7  
 
 | :------------- | :---------------------------------------------- |
-| **Presenters** | Erin King (USDA), [Kevin Keegan](https://www.linkedin.com/in/kevin-keegan-660b3424/) (Carnegie Museum of Natural History), [Teisha King](https://genome-postbac.biology.clas.uconn.edu/person/teisha-king-ph-d/) RaMP Postbac Coordinator, UConn |
-| **Topic**      | Alumni panel: 'Alternative' Careers |
-| **Resources**  |  |
+| **Presenters** | Current Graduate Students Emma Choi, Matthew Donohue, Young Kim, Coleman Pushlar|
+| **Topic**      | Grad panel: TAing, research & anything else you want to talk about! |
+| **Resources**  |  
 | **Notes**      | Homework: identify, for next week's discussion, 3-5 characteristics of good scientific questions |
 
  ### October 14  
@@ -78,9 +78,9 @@ There are also a few good general resources at the [bottom on this page](#Useful
 ### October 21   
 
 | :------------- | :---------------------------------------------- |
-| **Presenters** | [Bernard Goffinet](https://bryology.uconn.edu/), [Carlos García-Robledo](https://carlosgarciarobledo.org/UCONN/)|
-| **Topic**      | Writing and Publishing |
-| **Resources**  | [Slides](https://elphick-lab.media.uconn.edu/wp-content/uploads/sites/73/2024/11/EEB5100_2024_writing.pdf)<br>[The Writing Workshop](https://osf.io/z4n3t/) highly recommended for all grad students!<br>[guide to Peer Review (British Ecological Society)](http://www.britishecologicalsociety.org/wp-content/uploads/Publ_Peer-Review-Booklet.pdf)<br> |
+| **Presenters** | Erin King (USDA), [Kevin Keegan](https://www.linkedin.com/in/kevin-keegan-660b3424/) (Carnegie Museum of Natural History), [Teisha King](https://genome-postbac.biology.clas.uconn.edu/person/teisha-king-ph-d/) RaMP Postbac Coordinator, UConn |
+| **Topic**      | Alumni panel: 'Alternative' Careers |
+| **Resources**  |  |
 | **Notes**      |Homework: Identify at least 3 places outside of UConn where you could apply to get funding that would support research you are planning, or the type of organization you'd like to work for. For each, determine the due date, how much money you can ask for, and look over the grant requirements.|
 
 ### October 28    
@@ -102,9 +102,9 @@ There are also a few good general resources at the [bottom on this page](#Useful
 ### November 11
 
 | :------------- | :---------------------------------------------- |
-| **Presenters** | Current Graduate Students Emma Choi, Matthew Donohue, Young Kim, Coleman Pushlar|
-| **Topic**      | Grad panel: TAing, research & anything else you want to talk about! |
-| **Resources**  |  |
+| **Presenters** | [Bernard Goffinet](https://bryology.uconn.edu/), [Carlos García-Robledo](https://carlosgarciarobledo.org/UCONN/)|
+| **Topic**      | Writing and Publishing |
+| **Resources**  | [Slides](https://elphick-lab.media.uconn.edu/wp-content/uploads/sites/73/2024/11/EEB5100_2024_writing.pdf)<br>[The Writing Workshop](https://osf.io/z4n3t/) highly recommended for all grad students!<br>[guide to Peer Review (British Ecological Society)](http://www.britishecologicalsociety.org/wp-content/uploads/Publ_Peer-Review-Booklet.pdf)<br> |
 | **Notes**      | Homework: track the hours you spend on work this week (for discussion next week) |
 
 ### November 18   
