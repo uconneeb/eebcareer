@@ -62,8 +62,8 @@ There are also a few good general resources at the [bottom on this page](#Useful
 ### October 7  
 
 | :------------- | :---------------------------------------------- |
-| **Presenters** | Stay tuned|
-| **Topic**      | Alumni panel: Careers outside academia |
+| **Presenters** | Erin King (USDA), [Kevin Keegan] (https://www.linkedin.com/in/kevin-keegan-660b3424/) (Carnegie Museum of Natural History), [Teisha King](https://genome-postbac.biology.clas.uconn.edu/person/teisha-king-ph-d/)  RaMP Postbac Coordinator, UConn |
+| **Topic**      | Alumni panel: 'Alternative' Careers |
 | **Resources**  |  |
 | **Notes**      | Homework: identify, for next week's discussion, 3-5 characteristics of good scientific questions |
 
@@ -102,7 +102,7 @@ There are also a few good general resources at the [bottom on this page](#Useful
 ### November 11
 
 | :------------- | :---------------------------------------------- |
-| **Presenters** |  |
+| **Presenters** | Current Graduate Students Emma Choi, Matthew Donohue, Young Kim, Coleman Pushlar|
 | **Topic**      | Grad panel: TAing, research & anything else you want to talk about! |
 | **Resources**  |  |
 | **Notes**      | Homework: track the hours you spend on work this week (for discussion next week) |
